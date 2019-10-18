@@ -55,6 +55,11 @@ It is not clear yet that there is any one alternative service that provides *all
 - **[Eventbrite](https://www.eventbrite.com/)**
     - Free for free events.
     - Large, existing player in this space that is already widely used.
+- **[Explara](https://www.explara.com/)**
+    - Offer Explara Community - All-in-one Event & Members management software
+    - Powers millions of events, since 2008. 
+    - Explara management sofwtare (https://www.explara.com/solutions/membership-cloud) offers solution specific to meetup /members driven group type use cases
+    - Flat Pricing
 - **[Hobnob](https://hobnob.app/)**
     - "*Download Hobnob, create a private, ad-free Space in minutes for free, invite your group members and start chatting, sharing, and planning events. Creating gorgeous invites, managing RSVPs, and getting together has never been better.*"
     - Seems to require use of iOS or Android mobile apps.
